@@ -8,6 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
+@class FISVehicle;
+
 @interface FISAppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
